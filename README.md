@@ -22,6 +22,7 @@ A passionate **Frontend (Mobile) Developer** specializing in building cross-plat
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45" />&nbsp;
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45" />
 </p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -31,6 +32,11 @@ A passionate **Frontend (Mobile) Developer** specializing in building cross-plat
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MALAK0244&theme=radical" alt="Malak's Streak" />
+</p>
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MALAK0244E&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Malak's GitHub Stats" />
 </p>
 
 ---
