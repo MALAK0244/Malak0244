@@ -36,17 +36,14 @@
 
 ---
 
-### 📊 My GitHub Journey
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MALAK0244&show_icons=true&theme=algolia&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MALAK0244&layout=compact&theme=algolia&hide_border=true" />
-</p>
-
-<p align="center">
+### 📊 GitHub Journey
+<div align="center">
+  <img width="100%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MALAK0244&show_icons=true&theme=algolia&hide_border=true&hide=stars,issues&count_private=true" />
+  
+  <br>
+  
   <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MALAK0244&theme=algolia&hide_border=true" />
-</p>
-
+</div>
 ---
 
 ### 📫 Let's Build Something Amazing!
