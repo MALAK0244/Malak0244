@@ -1,61 +1,55 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=150&section=header&text=Malak%20Hussein%20Omar&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=02569B&height=150&section=header&text=Malak%20Hussein&fontSize=50&animation=fadeIn" />
 
-  ### 🚀 Flutter Mobile Application Developer
-  **2+ Years of Experience in Building Scalable & User-Focused Apps**
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malak-hussein-b69418249/)
-  [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malak.husseinomar@gmail.com)
+  <h1>Mobile Application Developer 📱</h1>
+
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  </p>
+
+  <p align="center">
+    <b>Crafting pixel-perfect, high-performance mobile experiences with Flutter & Dart.</b>
+  </p>
 </div>
 
 ---
 
-### 🌟 About Me
-[cite_start]I am a passionate **Flutter Developer** with a strong focus on **Clean Architecture (MVVM, MVI)** and high-performance mobile solutions[cite: 3, 22]. [cite_start]I specialize in turning complex designs into responsive, pixel-perfect UIs across Mobile, Web, and even **WearOS**[cite: 34, 47].
-
-- [cite_start]🎓 **Education:** Computer Science at Cairo University (2021-2025)[cite: 50, 51].
-- [cite_start]🛠️ **Expertise:** Advanced State Management (BLoC/Cubit), Real-time tracking, and CI/CD automation[cite: 17, 23, 38].
-- [cite_start]🎯 **Goal:** Delivering seamless user experiences with 60 FPS performance[cite: 5, 38].
+### ⚡ Quick Bytes
+- 🚀 **Performance Obsessed:** [cite_start]Expert in achieving 60 FPS fluid animations and heavy-duty live tracking[cite: 38].
+- 🏗️ **Architectural Mindset:** [cite_start]Strict follower of Clean Architecture (MVVM/MVI) and SOLID principles[cite: 9, 22].
+- ⌚ **Cross-Platform:** [cite_start]Experience spanning across Mobile, Web, and WearOS[cite: 34].
+- 🛠️ **DevOps & CI/CD:** [cite_start]Automating workflows using Fastlane and GitHub Actions[cite: 17, 19].
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ My Tech Stack
 
-| Category | Tools & Technologies |
+| Domain | Skills & Tools |
 | :--- | :--- |
-| **Frameworks** | [cite_start]`Flutter` `Dart` `Android (Kotlin/Java)` [cite: 8, 52] |
-| **State Management** | [cite_start]`BLoC` `Cubit` `Provider` [cite: 23] |
-| **Architecture** | [cite_start]`Clean Architecture` `SOLID` `Design Patterns` `Dependency Injection` [cite: 9, 10, 22, 24] |
-| **Maps & Real-time** | [cite_start]`Google Maps SDK` `Mapbox` `FCM` `Cloud Firestore` [cite: 26, 27, 29, 39] |
-| **Networking** | [cite_start]`RESTful APIs (Dio, Retrofit)` `Result Pattern` [cite: 12, 13] |
-| **DevOps** | [cite_start]`GitHub Actions (CI/CD)` `Fastlane` `Firebase App Distribution` [cite: 17, 19, 20] |
+| **State Management** | ![BLoC](https://img.shields.io/badge/BLoC-5eb1ff?style=flat-square) ![Cubit](https://img.shields.io/badge/Cubit-5eb1ff?style=flat-square) ![Provider](https://img.shields.io/badge/Provider-02569B?style=flat-square) |
+| **Networking** | ![Dio](https://img.shields.io/badge/Dio-orange?style=flat-square) ![Retrofit](https://img.shields.io/badge/Retrofit-blue?style=flat-square) ![RestAPI](https://img.shields.io/badge/REST_API-green?style=flat-square) |
+| **Database** | ![Hive](https://img.shields.io/badge/Hive-FFCA28?style=flat-square&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square) ![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=flat-square) |
+| **Design & UI** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Lottie](https://img.shields.io/badge/Lottie-00D1B2?style=flat-square) ![Material_Design](https://img.shields.io/badge/Material_UI-757575?style=flat-square) |
+| **Dev Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white) |
 
 ---
 
-### 📂 Featured Projects
-
-#### 🌸 [Integrated Flower E-Commerce & Logistics](YOUR_DEMO_LINK)
-[cite_start]A dual-app system (Customer & Driver) built with **BLoC** for reactive state management[cite: 36, 37].
-* [cite_start]**Customer App:** Global reactive cart and seamless checkout[cite: 37].
-* [cite_start]**Driver App:** Real-time logistics with **60 FPS live marker rendering** and persistent tracking via Foreground Services[cite: 38].
-
-#### 🩺 [CuraScan - Cancer Awareness App](YOUR_DEMO_LINK)
-[cite_start]Graduation project focusing on **Responsive Layouts** and complex Risk Visualization tools[cite: 46, 47, 48].
-
-#### 📝 [MVI-based Exam System](YOUR_DEMO_LINK)
-[cite_start]Developed using **Cubit** for predictable state management, featuring real-time timing and automated scoring[cite: 40, 41, 42].
-
----
-
-### 📊 My GitHub Journey
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MALAK0244&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALAK0244&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MALAK0244&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALAK024&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<div align="center">
-  [cite_start]<p><i>"Experienced in building end-to-end features with strong attention to UI/UX."</i> [cite: 5]</p>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6M2Z6eXF6Znp5cXpmenlxeZ&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="50" />
+### 📫 Let's Build Something Amazing!
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:malak.husseinomar@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<div align="right">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=02569B&height=30&section=footer" width="100%" />
 </div>
