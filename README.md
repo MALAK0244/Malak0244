@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6M2Z6eXF6Znp5cXpmenlxeZ&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30px"> Hi 👋, I'm Malak Hassan Omar
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF6M2Z6eXF6Znp5cXpmenlxeZ&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30px"> Hi 👋, I'm Malak Hussein Omar
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=02569B&width=435&lines=Flutter+Developer;Mobile+App+Enthusiast;Clean+Code+Believer" alt="Typing SVG" />
@@ -39,11 +39,11 @@ A passionate **Frontend (Mobile) Developer** specializing in building cross-plat
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="Malak's Github Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MALAK0244&show_icons=true&theme=radical" alt="Malak's Github Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="Malak's Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MALAK0244&theme=radical" alt="Malak's Streak" />
 </p>
 
 ---
