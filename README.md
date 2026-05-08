@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Malak%20Hussein&fontSize=70&animation=fadeIn&fontAlignY=35" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Malak%20Hussein&fontSize=70&animation=fadeIn&fontAlignY=35&fontFamily=Righteous" />
+  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Flutter+Mobile+Developer;Clean+Architecture+Enthusiast;UI%2FUX+Performance+Expert" alt="Typing SVG" />
 
   <p align="center">
