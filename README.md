@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=02569B&height=200&section=header&text=Malak%20Hussein&fontSize=70&animation=fadeIn&fontAlignY=35" />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Flutter+Mobile+Developer;Clean+Architecture+Enthusiast;WearOS+App+Developer;UI%2FUX+Performance+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=02569B&center=true&vCenter=true&width=500&lines=Flutter+Mobile+Developer;Clean+Architecture+Enthusiast;UI%2FUX+Performance+Expert" alt="Typing SVG" />
 
   <p align="center">
     🚀 <b>2+ Years Experience</b> • 🏗️ <b>Clean Architecture (MVVM/MVI)</b> • 📱 <b>Multi-platform (Mobile, Web, WearOS)</b>
@@ -37,16 +37,17 @@
 ---
 
 ### 📊 GitHub Activity
-<div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MALAK0244&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALAK0244&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MALAK0244&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Malak's Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MALAK0244&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
 ### 📫 Let's Build Something Amazing!
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/malak-hussein-b69418249/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:malak.husseinomar@gmail.com">
